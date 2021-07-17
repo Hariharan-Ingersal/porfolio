@@ -1,0 +1,12 @@
+@import url('./normalize.css');
+@import url('./utils.css');
+
+main {
+  padding: 10px;
+}
+
+.bio-dp {
+  width: 100px;
+  border-radius: 50%;
+}
+

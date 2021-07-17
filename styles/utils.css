@@ -1,0 +1,14 @@
+.align-center {
+  text-align: center;
+}
+
+/* width */
+.w-75 {
+  width: 75%;
+}
+
+/* spacing */
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
